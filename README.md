@@ -13,8 +13,11 @@ Siéntete libre de visitar mi canal de YouTube en donde comparto mi conocimiento
 </p>
 
 ### 🌐 Mi portafolio web
-
-[![Web](https://img.shields.io/badge/Web-osielordonez.lat-00A98F?style=for-the-badge)](https://osielordonez.lat)
+<p align="center">
+  <a href="https://osielordonez.lat" target="_blank">
+    <img src="https://img.shields.io/badge/Web-osielordonez.lat-00A98F?style=for-the-badge" alt="Web" />
+  </a>
+</p>
 
 ### 🌎 Encuéntrame en
 

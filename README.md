@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hola, soy Osiel Ordoñez
 
-<!--
-**AlePlaysDev/AlePlaysDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta el desarrollo web y me encanta aprender tecnologías nuevas, así como mejorar en las que utilizo.
 
-Here are some ideas to get you started:
+Siéntete libre de visitar mi canal de YouTube en donde comparto mi conocimiento, así como visitar mis proyectos en mi portafolio web y en mi github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías que utilizo
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,laravel,angular,tailwind,mysql,html,css,bootstrap,)](https://skillicons.dev)" />
+  </a>
+</p>
+
+### 🌐 Mi portafolio web
+
+[![Web](https://img.shields.io/badge/Web-osielordonez.lat-00A98F?style=for-the-badge)](https://osielordonez.lat)
+
+### 🌎 Encuéntrame en
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/osielordonez" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev)" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@AlePlaysDev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+
+---
+
+¡Gracias por visitar mi perfil, saludos! 😎
